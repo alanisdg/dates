@@ -22,7 +22,7 @@
 	<button @click="count++">count is: {{ count }}</button>
 	<p>
 		Edit
-		<code>components/HelloWorld.vue</code> to test hot module replacement.
+		<code>components/HelloWorld.  ddddsdsvue</code> to test hot module replacement.
 	</p>
 </template>
 
